@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>splash</title>
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+  </head>
+  <body>
+  <a href="news.html"> X - To main page</a><br>
+    <iframe width="100%" height="700px"
+      src="https://www.youtube.com/embed/O2Bsw3lrhvs?autoplay=1" frameborder="0" allowfullscreen>
+    </iframe>
+
+    <script type="text/javascript">
+    var vid = document.getElementById("introvid");
+
+    function redirect(){
+      window.location="news.html"
+    return
+  }
+    console.log(vid.ended)
+
+    vid.onended = redirect;
+    </script>
+  </body>
+</html>
