@@ -6,16 +6,19 @@
     <link rel="stylesheet" type="text/css" href="css/index.css">
   </head>
   <body>
-  <a href="news.html"> X - To main page</a><br>
-    <iframe width="100%" height="700px"
-      src="https://www.youtube.com/embed/O2Bsw3lrhvs?autoplay=1" frameborder="0" allowfullscreen>
-    </iframe>
+  <a href="hjem.html"> X - Hjem</a>
+    <video id="introvid"
+    autoplay
+    controls>
+
+      <source src="C:\Users\oyvin\Google Drive\Ragnarokfilm\video\Ragnarok - Teaser - 19092016.mov" type="video/mp4">
+
 
     <script type="text/javascript">
     var vid = document.getElementById("introvid");
 
     function redirect(){
-      window.location="news.html"
+      window.location="hjem.html"
     return
   }
     console.log(vid.ended)
