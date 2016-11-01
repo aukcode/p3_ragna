@@ -12,3 +12,7 @@ h1{
   text-align: center;
   border-radius: 75px;
 }
+
+body {
+  background-color: black;
+}
