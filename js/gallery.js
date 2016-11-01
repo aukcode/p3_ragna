@@ -1,1 +1,3 @@
-Hører den sorte enke meg?
+
+Hører du meg?
+Hører du meg eller?
