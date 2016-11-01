@@ -1,37 +1,14 @@
-video#introvid {
-width: 100%;
-}
-
-body{
-  background-color: black;
-}
-
-
-a{
-  font-size: 30px;
+h1{
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 150px;
+  font: georgia;
+  color: black;
   color: white;
-}
-
-/* unvisited link */
-a:link {
-    color: white;
-    text-decoration: none;
-}
-
-/* visited link */
-a:visited {
-    color: white;
-    text-decoration: none;
-}
-
-/* mouse over link */
-a:hover {
-    color: white;
-    text-decoration: none;
-}
-
-/* selected link */
-a:active {
-    color: white;
-    text-decoration: none;
+  background-color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  border-radius: 75px;
 }
