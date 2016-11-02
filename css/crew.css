@@ -1,22 +1,15 @@
-#rightmargin{
-  position: absolute;
-  width: 250px;
-  height: 100%;
-  background-color: black;
-  top: 0px;
-  right: 0px;
-  opacity: 0.5;
-}
 
 
-#myth{
+#crew{
   position: absolute;
-  width: 600px;
+  width: 40%;
   top: 10%;
   left: 20%;
+  max-height: 60%;
   padding: 10px;
   background-color: grey;
   opacity: 0.8;
+  overflow: scroll;
   color: white;
 }
 

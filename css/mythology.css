@@ -2,12 +2,14 @@
 
 #myth{
   position: absolute;
-  width: 600px;
+  width: 40%;
   top: 10%;
   left: 20%;
+  max-height: 60%;
   padding: 10px;
   background-color: grey;
   opacity: 0.8;
+  overflow: scroll;
   color: white;
 }
 

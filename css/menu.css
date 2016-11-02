@@ -1,13 +1,16 @@
 #leftmargin{
-  position: absolute;
-  width: 200px;
-  height: 100%;
-  background-color: black;
-  top: 0px;
   left: 0px;
-  opacity: 0.5;
 }
 
+#leftmargin, .rightmargin{
+  position: absolute;
+  top:10%;
+  bottom:15%;
+  max-height: 73.5%;
+  height: 73.5%;
+  width: 10%;
+  background:rgba(0, 0, 0,0.5);
+}
 #menu{
   position: absolute;
   margin-top: 120px;
@@ -16,35 +19,26 @@
   font-size: 30px;
 }
 .rightmargin{
-  position: absolute;
-  width: 250px;
-  height: 100%;
-  background-color: black;
-  top: 0px;
   right: 0px;
-  opacity: 0.5;
   overflow: scroll;
 }
 .rightmarginimg{
-  width:200px;
-  height: 200px;
-  top:0px;
-  right:0px;
+  width:100%;
+  height: auto;
+  opacity: 1;
 }
 .rightmargintext{
-  top:0px;
-  right:0px;
-  max-width:200px;
-  height:50px;
+  max-width:100%;
+  height:auto;
+  opacity: 0.5;
   overflow-x: hidden;
   overflow-y: scroll;
   color: white;
 
 }
 #mainImg {
-  height: 200px;
-  width: 200px;
-  border:none;
+  height: auto;
+  width: 100%;
 }
 a{
   font-size: 30px;
@@ -76,18 +70,15 @@ a:active {
 }
 
 .background {
-  position: relative;
   /* Set rules to fill background */
-  height: 607px;
   z-index: -1;
 
   /* Set up proportionate scaling */
   width: 100%;
   height: auto;
-
+  top:10%;
   /* Set up positioning */
-  position: fixed;
-  top: 90px;
+  position: absolute;
   left: 0;
 }
 
