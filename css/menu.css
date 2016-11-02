@@ -41,6 +41,11 @@
   color: white;
 
 }
+#mainImg {
+  height: 200px;
+  width: 200px;
+  border:none;
+}
 a{
   font-size: 30px;
   color: white;
