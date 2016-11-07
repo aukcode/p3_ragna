@@ -8,9 +8,8 @@ PURPOSE:
 #leftmargin{
   position: absolute;
   top:12%;
-  bottom:15%;
   left: 0px;
-  height: 75.7%;
+  height: 62.5%;
   width: 12%;
 
   background:rgba(0, 0, 0,0.5);
@@ -109,9 +108,9 @@ a:active {
   left: 0;
 }
 
-@media screen and (max-width: 1024px) { /* Specific to this particular image */
+/*@media screen and (max-width: 1024px) {  Specific to this particular image 
   img {
     left: 50%;
-    margin-left: -512px;   /* 50% */
+    margin-left: -512px;   50% 
   }
-}
+}*/
