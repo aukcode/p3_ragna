@@ -1,7 +1,5 @@
-
 function addImgFunc() {
 	var allImg = document.getElementsByClassName("rightmarginimg")
-	var allText = document.getElementsByClassName("rightmargintext");
 	for(i=0;i<allImg.length;i++){
 		allImg[i].setAttribute("id","img"+i)
 		allImg[i].setAttribute("onclick","imageSelect(this.id)")
