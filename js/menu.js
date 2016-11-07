@@ -1,3 +1,10 @@
+/*
+FILE NAME: menu.js
+WRITTEN BY: 
+WHEN: 
+PURPOSE:
+*/
+
 function w3_open() {
     document.getElementById("mySidenav").style.display = "block";
 }

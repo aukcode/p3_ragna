@@ -1,3 +1,9 @@
+/*
+FILE NAME: selection.js
+WRITTEN BY: 
+WHEN: 
+PURPOSE:
+*/
 
 function addImgFunc() {
 	var allImg = document.getElementsByClassName("rightmarginimg")
