@@ -13,3 +13,23 @@ body {
   background-color: black;
 }
 
+h1{
+  position: relative;
+  right: 10px;
+  left: 40%;
+  bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+  font-size: 50px;
+  font-family: ‘Josefin’,serif;
+  font-weight: 100;
+  
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+
+  border-top: 2px solid white;
+  border-bottom: 2px solid white;
+  width: 195px;
+}
+
