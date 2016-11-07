@@ -7,7 +7,7 @@ PURPOSE:
 
 #leftmargin{
   position: absolute;
-  top:12%;
+  top: 0;
   left: 0;
   right: 15px;
   height: 85%;
@@ -19,8 +19,8 @@ PURPOSE:
 }
 
 .menu{
-  position: absolute;
-  margin-top: 120px;
+  position: relative;
+  top: 20%;
   right: 15px;
 
   text-align: right;
@@ -62,8 +62,13 @@ PURPOSE:
 }
 
 a{
-  font-size: 30px;
+  font-size: 23px;
+  font-family: 'palatino';
+  font-weight: 100;
+  line-height: 2.5;
+
   color: white;
+  padding-bottom: 10%;
 }
 
 /* unvisited link */
@@ -80,8 +85,9 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-    color: white;
+    color: #d3d3d3;
     text-decoration: none;
+    text-decoration: underline;
 }
 
 /* selected link */

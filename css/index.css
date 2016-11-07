@@ -8,13 +8,13 @@ PURPOSE:
 h1{
   position: relative;
   right: 10px;
-  left: 40%;
+  left: 42%;
   bottom: 10px;
   padding-left: 10px;
   padding-right: 10px;
 
   font-size: 50px;
-  font-family: ‘Josefin’,serif;
+  font-family: 'Josefin', serif;
   font-weight: 100;
   
   background-color: rgba(0, 0, 0, 0.5);
