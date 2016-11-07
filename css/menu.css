@@ -102,8 +102,8 @@ a:active {
   z-index: -1;
   /* Set up proportionate scaling */
   width: 100%;
-  height: 62.5%;
-  top:12%;
+  height: 78%;
+  top: 12%;
   position: absolute;
   /* Set up positioning */
   left: 0;
