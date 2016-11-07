@@ -28,15 +28,15 @@ h1{
   padding-right: 10px;
 
   font-size: 50px;
-  font-family: ‘Josefin’,serif;
+  font-family: 'palatino';
   font-weight: 100;
   
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: #302013;
   color: white;
 
   border-top: 2px solid white;
   border-bottom: 2px solid white;
-  width: 195px;
+  width: 215px;
 }
 
 h2{
@@ -44,5 +44,5 @@ h2{
 }
 
 body {
-  background-color: black;
+  background-color: #302013;
 }

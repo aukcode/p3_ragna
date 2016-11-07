@@ -7,20 +7,21 @@ PURPOSE:
 
 #leftmargin{
   position: absolute;
-  top: 0;
-  left: 0;
-  right: 15px;
-  height: 85%;
+  top:12%;
+  bottom:15%;
+  left: 0px;
+  height: 75.7%;
   width: 12%;
 
   background:rgba(0, 0, 0,0.5);
-  font-size: 10px;
+  overflow: scroll;
+  font-weight: 100;
   text-align: right;
 }
 
 .menu{
   position: relative;
-  top: 20%;
+  top: 10%;
   right: 15px;
 
   text-align: right;
