@@ -1,32 +1,53 @@
+/*
+FILE NAME: menu.css
+WRITTEN BY: 
+WHEN: 
+PURPOSE:
+*/
+
 #leftmargin{
+  position: absolute;
+  top:12%;
+  bottom:15%;
   left: 0px;
+  height: 75.7%;
+  width: 12%;
+
+  background:rgba(0, 0, 0,0.5);
+  overflow: scroll;
+  font-weight: 100;
+  text-align: right;
 }
 
-#leftmargin, .rightmargin{
-  position: absolute;
-  top:10%;
-  bottom:15%;
-  max-height: 73.5%;
-  height: 73.5%;
-  width: 10%;
-  background:rgba(0, 0, 0,0.5);
-}
-#menu{
-  position: absolute;
-  margin-top: 120px;
-  text-align: right;
+.menu{
+  position: relative;
+  top: 10%;
   right: 15px;
-  font-size: 30px;
+
+  text-align: right;
+  font-size: 10px;
+  font-weight: thin;
 }
+
 .rightmargin{
+  position: absolute;
+  top:12%;
+  bottom:15%;
   right: 0px;
+  height: 75.7%;
+  width: 12%;
+
+  background:rgba(0, 0, 0,0.5);
   overflow: scroll;
+  font-weight: 100;
 }
+
 .rightmarginimg{
   width:100%;
   height: auto;
   opacity: 1;
 }
+
 .rightmargintext{
   max-width:100%;
   height:auto;
@@ -34,15 +55,21 @@
   overflow-x: hidden;
   overflow-y: scroll;
   color: white;
-
 }
+
 #mainImg {
   height: auto;
   width: 100%;
 }
+
 a{
-  font-size: 30px;
+  font-size: 23px;
+  font-family: 'palatino';
+  font-weight: 100;
+  line-height: 2.5;
+
   color: white;
+  padding-bottom: 10%;
 }
 
 /* unvisited link */
@@ -59,8 +86,9 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-    color: white;
+    color: #d3d3d3;
     text-decoration: none;
+    text-decoration: underline;
 }
 
 /* selected link */
@@ -70,13 +98,13 @@ a:active {
 }
 
 .background {
-  /* Set rules to fill background */
+  /* Set image to be behind the navbars */
   z-index: -1;
 
   /* Set up proportionate scaling */
   width: 100%;
   height: auto;
-  top:10%;
+  top:12%;
   /* Set up positioning */
   position: absolute;
   left: 0;

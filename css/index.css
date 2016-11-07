@@ -1,16 +1,28 @@
+/*
+FILE NAME: index.css
+WRITTEN BY: 
+WHEN: 
+PURPOSE:
+*/
+
 h1{
   position: relative;
   right: 10px;
+  left: 42%;
   bottom: 10px;
   padding-left: 10px;
   padding-right: 10px;
+
   font-size: 50px;
-  font: georgia;
-  color: black;
+  font-family: 'palatino';
+  font-weight: 100;
+  
+  background-color: black;
   color: white;
-  background-color: rgba(0, 0, 0, 0.5);
-  text-align: center;
-  border-radius: 75px;
+
+  border-top: 2px solid white;
+  border-bottom: 2px solid white;
+  width: 215px;
 }
 
 body {

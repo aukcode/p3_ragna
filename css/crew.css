@@ -1,10 +1,16 @@
-
+/*
+FILE NAME: crew.css
+WRITTEN BY: 
+WHEN: 
+PURPOSE:
+*/
 
 #crew{
   position: absolute;
   width: 40%;
-  top: 10%;
-  left: 20%;
+  top: 12%;
+  left: 27.5%;
+
   max-height: 60%;
   padding: 10px;
   background-color: grey;
@@ -14,11 +20,33 @@
 }
 
 h1{
+  position: relative;
+  right: 10px;
+  left: 42%;
+  bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+  font-size: 50px;
+  font-family: 'palatino';
+  font-weight: 100;
+  
+  background-color: black;
+  color: white;
+
+  border-top: 2px solid white;
+  border-bottom: 2px solid white;
+  width: 215px;
+}
+
+h2{
   font-size: 60px;
+  text-align: center;
 }
 
 p{
   font-size: 20px;
+  text-align: center;
 }
 
 body {

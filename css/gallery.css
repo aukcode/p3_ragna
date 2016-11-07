@@ -1,5 +1,32 @@
+/*
+FILE NAME: gallery.css
+WRITTEN BY: 
+WHEN: 
+PURPOSE:
+*/
+
 #bilde{
   margin-left: 200px;
+}
+
+h1{
+  position: relative;
+  right: 10px;
+  left: 42%;
+  bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+  font-size: 50px;
+  font-family: 'palatino';
+  font-weight: 100;
+  
+  background-color: black;
+  color: white;
+
+  border-top: 2px solid white;
+  border-bottom: 2px solid white;
+  width: 215px;
 }
 
 body {
