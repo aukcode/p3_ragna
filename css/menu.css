@@ -34,7 +34,7 @@ PURPOSE:
   top:12%;
   bottom:15%;
   right: 0px;
-  height: 75.7%;
+  height: 62.5%;
   width: 12%;
 
   background:rgba(0, 0, 0,0.5);
@@ -100,13 +100,12 @@ a:active {
 .background {
   /* Set image to be behind the navbars */
   z-index: -1;
-
   /* Set up proportionate scaling */
   width: 100%;
-  height: auto;
+  height: 62.5%;
   top:12%;
-  /* Set up positioning */
   position: absolute;
+  /* Set up positioning */
   left: 0;
 }
 

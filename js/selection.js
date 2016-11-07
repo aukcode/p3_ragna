@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-=======
-/*
-FILE NAME: selection.js
-WRITTEN BY: 
-WHEN: 
-PURPOSE:
-*/
-
->>>>>>> origin/master
 function addImgFunc() {
 	var allImg = document.getElementsByClassName("rightmarginimg")
 	for(i=0;i<allImg.length;i++){
