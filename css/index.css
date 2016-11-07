@@ -17,7 +17,7 @@ h1{
   font-family: 'palatino';
   font-weight: 100;
   
-  background-color: #302013;
+  background-color: black;
   color: white;
 
   border-top: 2px solid white;
@@ -26,5 +26,5 @@ h1{
 }
 
 body {
-  background-color: #302013;
+  background-color: black;
 }
