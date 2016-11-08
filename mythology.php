@@ -13,10 +13,7 @@
 
     <leftmargin id="leftmargin">
       <menuwrap class="menu">
-        <a href="index.html">Home</a><br>
-        <a href="mythology.html">Mythology</a><br>
-        <a href="gallery.html">Gallery</a><br>
-        <a href="crew.html">Cast and Crew</a><br>
+        <?php include_once 'nav.inc.php';?>
       </menuwrap>
     </leftmargin>
 
@@ -24,19 +21,19 @@
       <img class="rightmarginimg" src="https://pp.vk.me/c10668/u116889425/a_f022dc42.jpg">
       <div class="rightmargintext">sadasdsaasdsadasdsaasdsadasdsaasds<br>adasdsaasdsadasdsaasdsadasd<br>saasdsadasdsaasdsadasdsaasdsadasdsaas<br>dsadasdsaasdsadasdsaasdsadasdsaasdsadasdsaasdsadas<br>dsaasdsadasdsaasdsadasdsaasdsadasdsaasdsadasdsaasdsadasdsaasd
       </div>
-      <img class="rightmarginimg" src="https://pp.vk.me/c10668/u116889425/a_f022dc42.jpg"> 
+      <img class="rightmarginimg" src="https://pp.vk.me/c10668/u116889425/a_f022dc42.jpg">
       <div class="rightmargintext">sadasdsaasdsadasdsaasdsadasdsaasds<br>adasdsaasdsadasdsaasdsadasd<br>saasdsadasdsaasdsadasdsaasdsadasdsaas<br>dsadasdsaasdsadasdsaasdsadasdsaasdsadasdsaasdsadas<br>dsaasdsadasdsaasdsadasdsaasdsadasdsaasdsadasdsaasdsadasdsaasd
       </div>
-      <img class="rightmarginimg" src="https://pp.vk.me/c10668/u116889425/a_f022dc42.jpg"> 
+      <img class="rightmarginimg" src="https://pp.vk.me/c10668/u116889425/a_f022dc42.jpg">
       <div class="rightmargintext">sadasdsaasdsadasdsaasdsadasdsaasds<br>adasdsaasdsadasdsaasdsadasd<br>saasdsadasdsaasdsadasdsaasdsadasdsaas<br>dsadasdsaasdsadasdsaasdsadasdsaasdsadasdsaasdsadas<br>dsaasdsadasdsaasdsadasdsaasdsadasdsaasdsadasdsaasdsadasdsaasd
       </div>
-      <img class="rightmarginimg" src="https://pp.vk.me/c10668/u116889425/a_f022dc42.jpg"> 
+      <img class="rightmarginimg" src="https://pp.vk.me/c10668/u116889425/a_f022dc42.jpg">
       <div class="rightmargintext">sadasdsaasdsadasdsaasdsadasdsaasds<br>adasdsaasdsadasdsaasdsadasd<br>saasdsadasdsaasdsadasdsaasdsadasdsaas<br>dsadasdsaasdsadasdsaasdsadasdsaasdsadasdsaasdsadas<br>dsaasdsadasdsaasdsadasdsaasdsadasdsaasdsadasdsaasdsadasdsaasd
       </div>
-      <img class="rightmarginimg" src="https://pp.vk.me/c10668/u116889425/a_f022dc42.jpg"> 
+      <img class="rightmarginimg" src="https://pp.vk.me/c10668/u116889425/a_f022dc42.jpg">
       <div class="rightmargintext">sadasdsaasdsadasdsaasdsadasdsaasds<br>adasdsaasdsadasdsaasdsadasd<br>saasdsadasdsaasdsadasdsaasdsadasdsaas<br>dsadasdsaasdsadasdsaasdsadasdsaasdsadasdsaasdsadas<br>dsaasdsadasdsaasdsadasdsaasdsadasdsaasdsadasdsaasdsadasdsaasd
       </div>
-      <img class="rightmarginimg" src="https://pp.vk.me/c10668/u116889425/a_f022dc42.jpg"> 
+      <img class="rightmarginimg" src="https://pp.vk.me/c10668/u116889425/a_f022dc42.jpg">
       <div class="rightmargintext">sadasdsaasdsadasdsaasdsadasdsaasds<br>adasdsaasdsadasdsaasdsadasd<br>saasdsadasdsaasdsadasdsaasdsadasdsaas<br>dsadasdsaasdsadasdsaasdsadasdsaasdsadasdsaasdsadas<br>dsaasdsadasdsaasdsadasdsaasdsadasdsaasdsadasdsaasdsadasdsaasd
       </div>
     </div>

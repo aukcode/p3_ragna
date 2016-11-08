@@ -17,10 +17,7 @@
 
 <leftmargin id="leftmargin">
     <menuwrap class="menu">
-      <a href="index.html">Home</a><br>
-      <a href="mythology.html">Mythology</a><br>
-      <a href="gallery.html">Gallery</a><br>
-      <a href="crew.html">Cast and Crew</a><br>
+      <?php include_once 'nav.inc.php';?>
     </menuwrap>
 </leftmargin>
 

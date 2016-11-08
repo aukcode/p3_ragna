@@ -1,7 +1,7 @@
 <!--
 FILE NAME: gallery.html
-WRITTEN BY: 
-WHEN: 
+WRITTEN BY:
+WHEN:
 PURPOSE:
 -->
 
@@ -37,7 +37,7 @@ PURPOSE:
 <div id="header">
   <h1>Ragnarok</h1>
 </div>
-<div class="gallerybar"> 
+<div class="gallerybar">
   <img class="imggallery" src="img/Stills_Ragnarok_1.29.1.jpg">
   <img class="imggallery" src="img/Stills_Ragnarok_1.29.1.jpg">
   <img class="imggallery" src="img/Stills_Ragnarok_1.29.1.jpg">
