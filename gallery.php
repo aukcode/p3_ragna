@@ -1,7 +1,7 @@
 <!--
-FILE NAME: gallery.html
-WRITTEN BY: 
-WHEN: 
+FILE NAME: gallery.php
+WRITTEN BY:
+WHEN:
 PURPOSE:
 -->
 
@@ -21,10 +21,7 @@ PURPOSE:
 
 <leftmargin id="leftmargin">
     <menuwrap class="menu">
-      <a href="index.html">Home</a><br>
-      <a href="mythology.html">Mythology</a><br>
-      <a href="gallery.html">Gallery</a><br>
-      <a href="crew.html">Cast and Crew</a><br>
+      <?php include_once ('inc/nav.inc.php');?>
     </menuwrap>
 </leftmargin>
 <div class="mainBox">
@@ -37,7 +34,7 @@ PURPOSE:
 <div id="header">
   <h1>Ragnarok</h1>
 </div>
-<div class="gallerybar"> 
+<div class="gallerybar">
   <img class="imggallery" src="img/Stills_Ragnarok_1.29.1.jpg">
   <img class="imggallery" src="img/Stills_Ragnarok_1.29.1.jpg">
   <img class="imggallery" src="img/Stills_Ragnarok_1.29.1.jpg">

@@ -1,7 +1,7 @@
 /*
 FILE NAME: index.css
-WRITTEN BY: 
-WHEN: 
+WRITTEN BY:
+WHEN:
 PURPOSE:
 */
 
@@ -13,16 +13,16 @@ h1{
   padding-left: 10px;
   padding-right: 10px;
 
-  font-size: 50px;
+  font-size: 5em;
   font-family: 'palatino';
   font-weight: 100;
-  
-  background-color: black;
+
+  background-color: rgba(0, 0, 0, 0.5);;
   color: white;
 
   border-top: 2px solid white;
   border-bottom: 2px solid white;
-  width: 215px;
+  width: 515px;
   margin-top: 8px;
 }
 
