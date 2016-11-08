@@ -9,8 +9,11 @@
 <link rel="stylesheet" href="css/index.css">
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />1
 </head>
-<body>
+<body onload="loading()" style="margin:0;">
 
+<div id="loader"></div>
+
+<div style="display: none;" id="myDiv" class="animate-bottom">
 <img class="background" src="img/Stills_Ragnarok_1.161.1.jpg">
 
 <leftmargin id="leftmargin">
@@ -26,7 +29,8 @@
 <div id="header">
   <h1>Ragnarok</h1>
 </div>
-<script type="text/javascript" src="js/header & footer.js"></script>
+</div>
+<script type="text/javascript" src="js/loading.js"></script>
 </body>
 <footer>
 </footer>
