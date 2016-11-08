@@ -5,6 +5,36 @@ WHEN:
 PURPOSE:
 */
 
+.mainBox{
+  position: absolute;
+  width: 40%;
+  top: 12%;
+  left: 27.5%;
+  max-height: 60%;
+  padding: 10px;
+  background-color: grey;
+  opacity: 0.8;
+  overflow: scroll;
+  color: white;
+  text-align: center;
+}
+
+.gallerybar {
+  position:absolute;
+  bottom: 0px;
+  width:100%;
+  height: 25.5%;
+  background-color: white;
+  overflow: scroll;
+}
+.imggallery {
+  width: 10%;
+  margin:0;
+  float:left;
+  height: auto;
+
+
+}
 #leftmargin{
   position: absolute;
   top:12%;
@@ -20,7 +50,7 @@ PURPOSE:
 
 .menu{
   position: relative;
-  top: 10%;
+  top: 12%;
   right: 15px;
 
   text-align: right;
@@ -31,9 +61,8 @@ PURPOSE:
 .rightmargin{
   position: absolute;
   top:12%;
-  bottom:15%;
   right: 0px;
-  height: 78%;
+  height: 62.5%;
   width: 12%;
 
   background:rgba(0, 0, 0,0.5);
@@ -101,7 +130,7 @@ a:active {
   z-index: -1;
   /* Set up proportionate scaling */
   width: 100%;
-  height: 78%;
+  height: 62.5%;
   top: 12%;
   position: absolute;
   /* Set up positioning */

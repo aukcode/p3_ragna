@@ -1,11 +1,10 @@
-function addImgFunc() {
-	var allImg = document.getElementsByClassName("rightmarginimg")
+function addImgFunc(derp) {
+	var allImg = document.getElementsByClassName(derp)
 	for(i=0;i<allImg.length;i++){
 		allImg[i].setAttribute("id","img"+i)
 		allImg[i].setAttribute("onclick","imageSelect(this.id)")
 	}
 }
-addImgFunc();
 
 function imageSelect (id) {
 	var ModImg = document.getElementById("mainImg")

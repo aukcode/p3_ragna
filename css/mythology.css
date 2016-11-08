@@ -5,19 +5,6 @@ WHEN:
 PURPOSE:
 */
 
-#myth{
-  position: absolute;
-  width: 40%;
-  top: 12%;
-  left: 27.5%;
-  max-height: 60%;
-  padding: 10px;
-  background-color: grey;
-  opacity: 0.8;
-  overflow: scroll;
-  color: white;
-  text-align: center;
-}
 
 h1{
   position: relative;
