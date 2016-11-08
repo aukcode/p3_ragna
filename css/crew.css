@@ -1,7 +1,7 @@
 /*
 FILE NAME: crew.css
-WRITTEN BY: 
-WHEN: 
+WRITTEN BY:
+WHEN:
 PURPOSE:
 */
 
@@ -19,6 +19,38 @@ PURPOSE:
   color: white;
 }
 
+
+
+.rightmargin{
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  height: 100%;
+  width: 12%;
+
+  background:rgba(19, 19, 19,1);
+  overflow: hidden;
+  font-weight: 100;
+}
+
+.rightmarginimg{
+  width:100%;
+  height: auto;
+  opacity: 1;
+}
+
+.rightmargintext{
+  max-width:100%;
+  height:auto;
+  opacity: 0.5;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  color: white;
+}
+
+
+
+
 h1{
   position: relative;
   right: 10px;
@@ -30,7 +62,7 @@ h1{
   font-size: 50px;
   font-family: 'palatino';
   font-weight: 100;
-  
+
   background-color: black;
   color: white;
 

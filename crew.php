@@ -1,13 +1,5 @@
 <!--
-<<<<<<< HEAD:crew.php
 FILE NAME: crew.php
-=======
-<<<<<<< HEAD:crew.php
-FILE NAME: crew.php
-=======
-FILE NAME: crew.html
->>>>>>> 09fc64ec4494a0f700bd41f7dd9a496ac6a2e47e:crew.php
->>>>>>> e96d3cad9de634e31f25c6d058a8111aed6be81f:crew.php
 WRITTEN BY:
 WHEN:
 PURPOSE:
@@ -20,12 +12,12 @@ PURPOSE:
   <title>Mythology</title>
 <link rel="stylesheet" href="css/menu.css">
 <link rel="stylesheet" href="css/crew.css">
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
 
 </head>
 <body id="body">
 <div class="mainBody">
-<img class="background" src="img/Stills_Ragnarok_1.161.1.jpg">
+<img class="background" src="img/Stills_Ragnarok_1.168.1.jpg">
 
 <leftmargin id="leftmargin">
     <menuwrap class="menu">
@@ -35,20 +27,20 @@ PURPOSE:
 
 <div class="rightmargin">
   <img class="rightmarginimg" src="img/Stills_Ragnarok_1.29.1.jpg">
-  	<p class="rightmargintext">sasdasd</p><p>sadsa</p>
+  	<p class="rightmargintext">Crew contact</p>
   <img class="rightmarginimg" src="img/Stills_Ragnarok_1.29.1.jpg">
-  	<p class="rightmargintext"> sadsadsadsa </p>
+  	<p class="rightmargintext">Videography</p>
   <img class="rightmarginimg" src="img/Stills_Ragnarok_1.29.1.jpg">
-  	<p class="rightmargintext">sadsadsadsa</p>
+  	<p class="rightmargintext">Sound and light</p>
   <img class="rightmarginimg" src="img/Stills_Ragnarok_1.29.1.jpg">
-  	<p class="rightmargintext"> sadsadsadsa </p>
+  	<p class="rightmargintext">Production</p>
   <img class="rightmarginimg" src="img/Stills_Ragnarok_1.29.1.jpg">
-  	<p class="rightmargintext"> sadsadsadsa </p>
+  	<p class="rightmargintext">Actors</p>
   <img class="rightmarginimg" src="img/Stills_Ragnarok_1.29.1.jpg">
-  	<p class="rightmargintext"> sadsadsadsa </p>
+  	<p class="rightmargintext">Consulting</p>
 </div>
 
-<div id="crew">
+<div class="mainBox">
   <h2>Cast and Crew</h2>
   <img id="mainImg">
   <p id="mainText">
@@ -59,9 +51,6 @@ PURPOSE:
 </div>
 </div>
 
-<div id="header">
-  <h1>Ragnarok</h1>
-</div>
 
 <script type="text/javascript" src="js/selection.js"></script>
 <script type="text/javascript">addImgFunc("rightmarginimg");</script>

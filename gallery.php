@@ -20,7 +20,7 @@ PURPOSE:
   <title>Ragnarokfilm</title>
 <link rel="stylesheet" href="css/menu.css">
 <link rel="stylesheet" href="css/gallery.css">
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
 </head>
 <body id="body">
   <div id="bilde" >
