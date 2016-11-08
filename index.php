@@ -1,4 +1,9 @@
-
+<!--
+FILE NAME: index.php
+WRITTEN BY:
+WHEN:
+PURPOSE:
+-->
 <!DOCTYPE html>
 <html id="top">
 <head>
@@ -17,15 +22,12 @@
 
 <leftmargin id="leftmargin">
     <menuwrap class="menu">
-      <a href="index.html">Home</a><br>
-      <a href="mythology.html">Mythology</a><br>
-      <a href="gallery.html">Gallery</a><br>
-      <a href="crew.html">Cast and Crew</a><br>
+      <?php include_once ('inc/nav.inc.php');?>
     </menuwrap>
 </leftmargin>
 
 <div id="header">
-  <h1>Ragnarok</h1>
+  <h1>RAGNAROKK</h1>
 </div>
 </div>
 <script type="text/javascript" src="js/loading.js"></script>
