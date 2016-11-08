@@ -40,10 +40,18 @@ PURPOSE:
   display: block;
   top: 0px;
   left: 0px;
+<<<<<<< HEAD
+  height: 100%;
+  width: 17%;
+  background: #131313;
+  background-color: blue;
+  background: blue;
+=======
   height: 62.5%;
   width: 12%;
 
   background: #131313;
+>>>>>>> e96d3cad9de634e31f25c6d058a8111aed6be81f
   font-weight: 100;
   text-align: right;
 }
@@ -126,6 +134,17 @@ a:active {
   /* Set image to be behind the navbars */
   z-index: -1;
   /* Set up proportionate scaling */
+<<<<<<< HEAD
+
+  /* Set up positioning */
+  left: 17%;
+  top: 0;
+
+  width: 100px;
+  height: 100px;
+
+
+=======
   width: 100%;
   height: auto;
   position: absolute;
@@ -136,6 +155,7 @@ a:active {
       -ms-transform: translate(-50%,-50%);
           transform: translate(-50%,-50%);
 
+>>>>>>> e96d3cad9de634e31f25c6d058a8111aed6be81f
 
 }
 

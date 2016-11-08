@@ -2,8 +2,12 @@
 <<<<<<< HEAD:gallery.php
 FILE NAME: gallery.php
 =======
+<<<<<<< HEAD:gallery.php
+FILE NAME: gallery.php
+=======
 FILE NAME: gallery.html
 >>>>>>> 09fc64ec4494a0f700bd41f7dd9a496ac6a2e47e:gallery.php
+>>>>>>> e96d3cad9de634e31f25c6d058a8111aed6be81f:gallery.php
 WRITTEN BY:
 WHEN:
 PURPOSE:
