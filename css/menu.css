@@ -130,14 +130,8 @@ a:active {
   height: auto;
   position: absolute;
   /* Set up positioning */
-  left: 12%;
-  top: 0;
-
   display: block;
-
-
-  left: 50%;
-  top: 50%;
+  top:12%;
   -webkit-transform: translate(-50%,-50%);
       -ms-transform: translate(-50%,-50%);
           transform: translate(-50%,-50%);
