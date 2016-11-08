@@ -22,7 +22,9 @@ PURPOSE:
 
 <leftmargin id="leftmargin">
     <menuwrap class="menu">
+
       <?php include_once ('inc/nav.inc.php');?>
+
     </menuwrap>
 </leftmargin>
 
